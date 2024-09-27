@@ -1,1 +1,3 @@
 testing testing 123
+
+adding to make sure the bash terminal outside of vscode works
